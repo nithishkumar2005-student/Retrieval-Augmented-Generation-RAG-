@@ -23,6 +23,7 @@ The system loads an AWS documentation webpage, splits the content into smaller c
 
 ![RAG Architecture](architecture/rag-architecture.png)
 
+Live:https://qfvmzkj6jud7f5buw3mutt.streamlit.app/
 ## 🔄 How It Works
 
 ```text
